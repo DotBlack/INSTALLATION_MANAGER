@@ -1,0 +1,3 @@
+﻿ID,INSTALL FILE PATH,SOFTWARE DISPLAY NAME,INSTALLER TYPE,INSTALL POWERSHELL PATH
+1,M:\SCRIPTING\Installer\PDFXVE9.exe,PDF-XChange Editor,EXE,M:\SCRIPTING\Installer\Install_PDFXChangeEditor.ps1
+2,M:\SCRIPTING\Installer\AcroRdrDC2200220191_de_DE.exe,Adobe Acrobat Reader DC,EXE,M:\SCRIPTING\Installer\Install_AdrobeAcrobatReader.ps1
